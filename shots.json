@@ -1,0 +1,18 @@
+[
+  {
+    "name": "1-start.jpg",
+    "query": "?shot=start&seed=1"
+  },
+  {
+    "name": "2-street.jpg",
+    "query": "live: new game, jalan kaki di kota"
+  },
+  {
+    "name": "3-chase.jpg",
+    "query": "?shot=play&seed=1"
+  },
+  {
+    "name": "4-action.jpg",
+    "query": "?shot=end&seed=1"
+  }
+]
